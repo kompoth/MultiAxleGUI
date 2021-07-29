@@ -1,6 +1,6 @@
 MULTIAXLE INTERFACE
 ===================
-_Project has not been updated for a long time. Use it just like an example for more advanced pieces of software development._
+_Project was a study exercise and was not updated for a long time. Currently it can be used as an example for new developers._
 
 An example of a program with GUI, designed to work with multiple servo controllers (up to six inclusive, it is easy to increase this number if necessary) by means of XIMC protocol. GUI was created through PyQt5 package.
 All necessary XIMC files are included, you can download the full package [here](https://doc.xisupport.com/en/8smc5-usb/8SMCn-USB/Files/Software.html)
